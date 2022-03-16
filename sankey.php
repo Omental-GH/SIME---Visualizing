@@ -15,7 +15,7 @@
 <body>
 
     <form>
-        <label for="estadoe">Estado:</label>
+        <label for="estado">Estado:</label>
         <select id="estado" name="estado"></select>
         <br>
         <label for="municipio">Municipio:</label>
